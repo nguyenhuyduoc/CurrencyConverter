@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CurrencyConverter</string>
+    <string name="app_name">Test</string>
 
     <string-array name="currencies">
         <item>USD</item>
